@@ -1,3 +1,4 @@
+//
 function kereses(){
     let beEv=document.getElementById("beEv").value
     fetch("https://api.nobelprize.org/v1/prize.json")
